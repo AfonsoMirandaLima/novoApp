@@ -1,2 +1,3 @@
-Arquivo Principal do projeto
-Segunda linha do arquivo
+Arquivo Principal do projeto da Thaís
+Projeto de Gerência de configuração
+
