@@ -1,3 +1,4 @@
 Arquivo Principal do projeto da Thaís
-Projeto de Gerência de configuração
+Segunda linha do arquivo
+terceira linha
 
