@@ -1,3 +1,4 @@
-Arquivo do Luan
+Arquivo Principal do projeto da Thaís
 Segunda linha do arquivo
 terceira linha
+
